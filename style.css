@@ -75,9 +75,9 @@ body{
      color: white;
      padding: 10px;
      border-radius: 30px;
-     border: solid black 2px;
-     padding: 10px;
-     cursor: pointer;
+     border:solid black 2px;
+     padding:10px;
+     cursor:pointer;
 }
 
 .categories p:hover{
