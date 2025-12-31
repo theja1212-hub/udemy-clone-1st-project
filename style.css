@@ -51,6 +51,8 @@ body{
      color: white;
      padding: 10px;
      border-radius: 30px;
+     border: solid black 2px;
+     padding: 10px;
 }
 .sale-image img{
     width: 100%;
